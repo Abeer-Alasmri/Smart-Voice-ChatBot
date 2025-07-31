@@ -1,0 +1,13 @@
+
+
+🕒 2025-07-31 09:39
+👤 You:  Hi, good morning, my name is Abir, what is your name?
+🤖 Bot: Good morning to you too! My name is Coral, and I am an AI chatbot designed to provide information and assist with tasks aiming to help and answer questions. I'm happy to assist and provide interesting and helpful answers to the best of my knowledge!
+
+🕒 2025-07-31 09:41
+👤 You:  What is Riyadh?
+🤖 Bot: Riyadh is the capital and largest city of the Kingdom of Saudi Arabia. It is an important, cultural, and economic center and serves as the focal point of many religious traditions.
+
+🕒 2025-07-31 09:44
+👤 You:  What is AI?
+🤖 Bot: AI, or Artificial Intelligence, is the broad term used to describe the capabilities and qualities that humans associate with computers and computing systems to mimic or replicate. It encompasses a many development of intelligent machines that can perceive data, interpret, and respond to challenges like solving problems, learning new skills, and drawing conclusions, much like humans do.

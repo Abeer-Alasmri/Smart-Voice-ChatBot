@@ -1,0 +1,6 @@
+
+python english_chatbot.py
+
+python arabic_chatbot.py
+
+python voice_test.py
